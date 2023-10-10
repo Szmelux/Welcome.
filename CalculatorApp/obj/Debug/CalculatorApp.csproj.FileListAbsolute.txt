@@ -1,0 +1,8 @@
+C:\Users\Admin\source\Michał.W3TPI\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\Admin\source\Michał.W3TPI\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\Admin\source\Michał.W3TPI\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\Admin\source\Michał.W3TPI\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+C:\Users\Admin\source\Michał.W3TPI\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\Michał.W3TPI\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\Michał.W3TPI\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\Admin\source\Michał.W3TPI\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
